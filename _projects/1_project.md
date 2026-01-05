@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Multimodal hyperspectral system for imaging of biological tissues glycation
+description: H2020 Marie Skłodowska-Curie Actions project
 img: assets/img/hsi.jpg
 importance: 1
 category: work
