@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: project 2
 description: with background image
 img: assets/img/4.jpg
-importance: 3
+importance: 2
 category: work
 related_publications: true
 ---
