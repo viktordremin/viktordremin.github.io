@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bmecenter.ru/en'>Research and Development Center of Biomedical Photonics</a>. Biophotonics | Biomedical Engineering | Optoelectronics
+subtitle: <a href='https://bmecenter.ru/en'>Research and Development Center of Biomedical Photonics</a>, <a href='https://www.aston.ac.uk/research/eps/aipt'>Aston Institute of Photonic Technologies</a> >
+Biophotonics | Biomedical Engineering | Optoelectronics
 
 profile:
   align: right
