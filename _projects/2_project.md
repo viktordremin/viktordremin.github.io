@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: with background image
+title: Optical percutaneous needle biopsy
+description: RSF project
 img: assets/img/opnb.jpg
 importance: 2
 category: work
