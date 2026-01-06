@@ -428,9 +428,9 @@ ninja.data = [{
           description: "H2020 Marie Skłodowska-Curie Actions project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "with background image",
+            },},{id: "projects-optical-percutaneous-needle-biopsy",
+          title: 'Optical percutaneous needle biopsy',
+          description: "RSF project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
