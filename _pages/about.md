@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Biophotonics | Biomedical Engineering | Optoelectronics
+subtitle: <a href='[#](https://bmecenter.ru/en)'>Research and Development Center of Biomedical Photonics</a>. Biophotonics | Biomedical Engineering | Optoelectronics
 
 profile:
   align: right
