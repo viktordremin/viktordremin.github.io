@@ -29,4 +29,4 @@ latest_posts:
 
 I am a biophotonics and biomedical engineering researcher focused on developing next-generation optical technologies for non-invasive medical diagnostics. My work lies at the intersection of optoelectronics, machine learning, and clinical translation, aiming to create tools that enable real-time, in vivo monitoring of tissue metabolism and vascular health.
 
-I hold a PhD in Biomedical Engineering from at Orel State University (Russia). My research portfolio spans from designing multimodal fibre-optic systems and optical imagers to applying advanced data analysis in the study of diabetes, neurodegenerative disorders, and cancer.
+My research portfolio spans from designing multimodal fibre-optic systems and optical imagers to applying advanced data analysis in the study of diabetes, neurodegenerative disorders, and cancer.
