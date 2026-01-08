@@ -20,31 +20,33 @@
 - title: Experience
   type: time_table
   contents:
-       - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      - title: Senior Research Fellow/Associate Professor
+      institution: Orel State University, R&D Center of Biomedical Photonics, Orel, Russia
+      year: 2021 - current
+  
+      - title: Marie Curie Research Fellow
+      institution: Aston University, Aston Institute of Photonic Technologies, Birmingham, UK
+      year: 2020 - current
+
+      - title: Visiting Researcher
+      institution: University of Oulu, Optoelectronics and Measurement Techniques unit, Oulu, Finland
+      year: 2022 - 2023
+  
+       - title: Postdoctoral Research Fellow
+      institution: University of Oulu, Optoelectronics and Measurement Techniques unit, Oulu, Finland
+      year: 2018 - 2020
     
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Fellow
+      institution: Orel State University, R&D Center of Biomedical Photonics, Orel, Russia
+      year: 2017 - 2021
 
     - title: Visiting Researcher
       institution: ITMO University, Faculty of Applied Optics, Saint Petersburg, Russia
-      year: 2016
+      year: 2016 -
 
     - title: Visiting Researcher
       institution: Aston University, Aston Institute of Photonic Technologies, Birmingham, UK
-      year: 2016
+      year: 2016 -
 
     - title: Research Engineer
       institution: Orel State University, R&D Center of Biomedical Photonics, Orel, Russia
@@ -53,13 +55,6 @@
     - title: Optoelectronics Design Engineer
       institution: SPE “Astron Electronics”, Dprt of Spectral Devices, Orel, Russia
       year: 2011 - 2018
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
