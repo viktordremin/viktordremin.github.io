@@ -4,9 +4,9 @@
     - name: Full Name
       value: Viktor Dremin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 01st December 1990
     - name: Languages
-      value: English, German
+      value: Russian, English
 
 - title: Education
   type: time_table
