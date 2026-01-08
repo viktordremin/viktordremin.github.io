@@ -37,10 +37,10 @@
       year: 2017 - 2021
     - title: Visiting Researcher
       institution: ITMO University, Faculty of Applied Optics, Saint Petersburg, Russia
-      year: 2016 -
+      year: 2016
     - title: Visiting Researcher
       institution: Aston University, Aston Institute of Photonic Technologies, Birmingham, UK
-      year: 2016 -
+      year: 2016
     - title: Optoelectronics Design Engineer
       institution: SPE "Astron Electronics", Dprt of Spectral Devices, Orel, Russia
       year: 2011 - 2018
@@ -48,13 +48,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Photonics Young Investigator Award
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Optica Foundation Challenge Prize
+    - year: 2023
+      items:
+        - Award of Nobel Prize Winner Zhores Alferov for young scientists
+    - year: 2017
+      items:
+        - Prize of the International Society of Optics and Photonics (SPIE)
 
 - title: Academic Interests
   type: nested_list
