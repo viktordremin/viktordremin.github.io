@@ -9,9 +9,9 @@ profile:
   image: 503023-097_cut_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>dremin_viktor@mail.ru</p>
-    <p>viktor.dremin@bmecenter.ru</p>
-    <p>v.dremin1@aston.ac.uk</p>
+    <p>...</p>
+    <p>...</p>
+    <p>...</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
