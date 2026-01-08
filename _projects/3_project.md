@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Laser speckle contrast imaging: RSF project
+title: Laser speckle contrast imaging:
+description: RSF project
 img: assets/img/fig3_main.jpg
 importance: 3
 category: work
