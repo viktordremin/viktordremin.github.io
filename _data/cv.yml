@@ -23,13 +23,15 @@
     - title: Senior Research Fellow/Associate Professor
       institution: Orel State University, R&D Center of Biomedical Photonics, Orel, Russia
       year: 2021 - current
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Marie Curie Research Fellow
+      institution: Aston University, Aston Institute of Photonic Technologies, Birmingham, UK
+      year: 2020 - current
+    - title: Visiting Researcher
+      institution: University of Oulu, Optoelectronics and Measurement Techniques unit, Oulu, Finland
+      year: 2022 - 2023
+    - title: Postdoctoral Research Fellow
+      institution: University of Oulu, Optoelectronics and Measurement Techniques unit, Oulu, Finland
+      year: 2018 - 2020
 
 - title: Honors and Awards
   type: time_table
