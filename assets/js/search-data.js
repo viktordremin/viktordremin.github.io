@@ -433,9 +433,9 @@ ninja.data = [{
           description: "RSF project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-laser-speckle-contrast-imaging",
+          title: 'Laser speckle contrast imaging',
+          description: "RSF project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
