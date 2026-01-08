@@ -3,10 +3,10 @@
     "name": "Viktor Dremin",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "...",
+    "phone": "...",
+    "url": "https://...",
+    "summary": "Biophotonics and biomedical engineering researcher focused on developing next-generation optical technologies for non-invasive medical diagnostics.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -50,12 +50,10 @@
       "institution": "Orel State University, Orel, Russia",
       "location": "Orel, Russia",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Biomedical Engineering",
       "studyType": "PhD",
       "startDate": "2013-09-01",
       "endDate": "2017-11-10",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
