@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A collection of my key projects
+description: My main research areas
 nav: true
 nav_order: 3
 display_categories:
