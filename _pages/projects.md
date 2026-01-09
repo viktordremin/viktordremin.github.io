@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: My main research areas
+description: Here you can explore the key areas of my scientific inquiry
 nav: true
 nav_order: 3
 display_categories:
