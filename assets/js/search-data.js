@@ -448,6 +448,11 @@ ninja.data = [{
           description: "...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-direct-sensitizer-free-generation-of-singlet-oxygen",
+          title: 'Direct sensitizer-free generation of singlet oxygen',
+          description: "...",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
