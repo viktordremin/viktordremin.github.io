@@ -443,6 +443,11 @@ ninja.data = [{
           description: "...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-stain-free-histological-imaging-by-polarized-light",
+          title: 'Stain-free histological imaging by polarized light',
+          description: "...",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
