@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Direct sensitizer-free generation of singlet oxygen
+title: Direct photosensitizer-free generation of singlet oxygen
 description: ...
 img: assets/img/singlet.jpg
 importance: 6
