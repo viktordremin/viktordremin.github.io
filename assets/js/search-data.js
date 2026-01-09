@@ -438,9 +438,9 @@ ninja.data = [{
           description: "RSF project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-multimodal-fiber-probe-spectroscopy",
+          title: 'Multimodal fiber-probe spectroscopy',
+          description: "...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
