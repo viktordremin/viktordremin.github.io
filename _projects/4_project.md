@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Multimodal fiber-probe spectroscopy: ...
+title: Multimodal fiber-probe spectroscopy
+description: ...
 img: assets/img/mos.jpg
 importance: 4
 category: work
