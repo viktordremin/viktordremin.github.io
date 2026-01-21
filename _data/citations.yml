@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-21'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 127
+    citations: 128
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -218,7 +218,7 @@ papers:
     title: Optical fine needle biopsy in hepatocellular carcinoma mouse model
     year: '2020'
   sY9tLgsAAAAJ:J_g5lzvAfSwC:
-    citations: 86
+    citations: 87
     title: 'Optical percutaneous needle biopsy of the liver: a pilot animal and clinical study'
     year: '2020'
   sY9tLgsAAAAJ:JoZmwDi-zQgC:
@@ -350,7 +350,7 @@ papers:
     title: Laser speckle contrast imaging of blood microcirculation in pancreatic tissues during laparoscopic interventions
     year: '2020'
   sY9tLgsAAAAJ:TQgYirikUcIC:
-    citations: 164
+    citations: 167
     title: Hyperspectral imaging of human skin aided by artificial neural networks
     year: '2019'
   sY9tLgsAAAAJ:Tiz5es2fbqcC:
@@ -388,7 +388,7 @@ papers:
   sY9tLgsAAAAJ:VLnqNzywnoUC:
     citations: 0
     title: Effects of 1267 nm illumination on microcirculation regulatory mechanisms
-    year: '2024'
+    year: '2025'
   sY9tLgsAAAAJ:VOx2b1Wkg3QC:
     citations: 3
     title: Fluorescent Technology in the Assessment of Metabolic Disorders in Diabetes
@@ -414,7 +414,7 @@ papers:
     title: Digital diaphanoscopy in the diagnosis of maxillary sinus diseases for patients with different anatomical and gender features
     year: '2022'
   sY9tLgsAAAAJ:Wp0gIr-vW9MC:
-    citations: 8
+    citations: 9
     title: Blood flow oscillations as a signature of microvascular abnormalities
     year: '2018'
   sY9tLgsAAAAJ:WqliGbK-hY8C:
@@ -506,7 +506,7 @@ papers:
     title: Laser doppler spectrum decomposition applied in diagnostics of microcirculatory disturbances
     year: '2018'
   sY9tLgsAAAAJ:b0M2c_1WBrUC:
-    citations: 39
+    citations: 40
     title: Impairments of cerebral blood flow microcirculation in rats brought on by cardiac cessation and respiratory arrest
     year: '2021'
   sY9tLgsAAAAJ:bFI3QPDXJZMC:
@@ -638,7 +638,7 @@ papers:
     title: Optical noninvasive diagnostics of the functional state of microcirculatory bed in patients with disorders of peripheral haemodynamics
     year: '2018'
   sY9tLgsAAAAJ:j3f4tGmQtD8C:
-    citations: 85
+    citations: 86
     title: Influence of blood pulsation on diagnostic volume in pulse oximetry and photoplethysmography measurements
     year: '2019'
   sY9tLgsAAAAJ:j8SEvjWlNXcC:
@@ -670,11 +670,11 @@ papers:
     title: Laser speckle contrast imaging of abdominal organs in mouse model
     year: '2019'
   sY9tLgsAAAAJ:mVmsd5A6BfQC:
-    citations: 4
+    citations: 5
     title: Evaluation of microvascular disturbances in rheumatic diseases by analysis of skin blood flow oscillations
     year: '2018'
   sY9tLgsAAAAJ:maZDTaKrznsC:
-    citations: 34
+    citations: 33
     title: Imaging of early stage breast cancer with circularly polarized light
     year: '2020'
   sY9tLgsAAAAJ:mvPsJ3kp5DgC:
@@ -778,7 +778,7 @@ papers:
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 149
+    citations: 151
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
@@ -794,11 +794,11 @@ papers:
     title: 'Singlet Oxygen Detection: A Review of Recent Advances'
     year: '2025'
   sY9tLgsAAAAJ:u_35RYKgDlwC:
-    citations: 155
+    citations: 156
     title: Skin complications of diabetes mellitus revealed by polarized hyperspectral imaging and machine learning
     year: '2021'
   sY9tLgsAAAAJ:uc_IGeMz5qoC:
-    citations: 3
+    citations: 4
     title: A Wearable Device Dataset for Mental Health Assessment Using Laser Doppler Flowmetry and Fluorescence Spectroscopy Sensors
     year: '2025'
   sY9tLgsAAAAJ:ufrVoPGSRksC:
