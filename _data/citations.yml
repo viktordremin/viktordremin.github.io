@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-26'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -82,7 +82,7 @@ papers:
     title: Optical percutaneous needle biopsy to differentiate liver cancer from normal parenchyma
     year: '2022'
   sY9tLgsAAAAJ:5nxA0vEk-isC:
-    citations: 81
+    citations: 82
     title: Spectral analysis of the blood flow in the foot microvascular bed during thermal testing in patients with diabetes mellitus
     year: '2018'
   sY9tLgsAAAAJ:5ugPr518TE4C:
@@ -134,7 +134,7 @@ papers:
     title: "\u041F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u044B \u043C\u0438\u043A\u0440\u043E\u0446\u0438\u0440\u043A\u0443\u043B\u044F\u0446\u0438\u0438 \u0432 \u043A\u043E\u0436\u0435 \u043A\u0430\u043A \u0434\u0438\u0430\u0433\u043D\u043E\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043C\u0430\u0440\u043A\u0435\u0440\u044B \u043D\u0430\u0440\u0443\u0448\u0435\u043D\u0438\u044F \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0438 \u0446\u0435\u0440\u0435\u0431\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u0440\u043E\u0432\u043E\u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u044F \u043F\u0440\u0438 \u0433\u0435\u043C\u043E\u0440\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u0448\u043E\u043A\u0435 (\u044D\u043A\u0441\u043F\u0435\u0440\u0438\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u043E\u0435 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435)"
     year: '2025'
   sY9tLgsAAAAJ:B3FOqHPlNUQC:
-    citations: 29
+    citations: 30
     title: Simulation of thermal field distribution in biological tissue and cell culture media irradiated with infrared wavelengths
     year: '2022'
   sY9tLgsAAAAJ:BUYA1_V_uYcC:
@@ -146,7 +146,7 @@ papers:
     title: "Colon cancer detection by using Poincar\xE9 sphere and 2D polarimetric mapping of ex vivo colon samples"
     year: '2020'
   sY9tLgsAAAAJ:BrmTIyaxlBUC:
-    citations: 39
+    citations: 40
     title: A method to measure non-Newtonian fluids viscosity using inertial viscometer with a computer vision system
     year: '2023'
   sY9tLgsAAAAJ:BwyfMAYsbu0C:
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 128
+    citations: 129
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -266,7 +266,7 @@ papers:
     title: Optical percutaneous needle biopsy in oncology
     year: '2025'
   sY9tLgsAAAAJ:MXK_kJrjxJIC:
-    citations: 85
+    citations: 86
     title: Multimodal optical measurement for study of lower limb tissue viability in patients with diabetes mellitus
     year: '2017'
   sY9tLgsAAAAJ:Mojj43d5GZwC:
@@ -302,7 +302,7 @@ papers:
     title: Peculiarities of local blood microcirculation in patients with the psoriasis
     year: '2018'
   sY9tLgsAAAAJ:P5F9QuxV20EC:
-    citations: 5
+    citations: 6
     title: Influence of melanin content on laser doppler flowmetry and tissue reflectance oximetry signal formation
     year: '2021'
   sY9tLgsAAAAJ:PELIpwtuRlgC:
@@ -342,7 +342,7 @@ papers:
     title: The influence of local pressure on evaluation parameters of skin blood perfusion and fluorescence
     year: '2017'
   sY9tLgsAAAAJ:SeFeTyx0c_EC:
-    citations: 43
+    citations: 44
     title: 'Wearable laser Doppler flowmetry sensor: a feasibility study with smoker and non-smoker volunteers'
     year: '2020'
   sY9tLgsAAAAJ:TFP_iSt0sucC:
@@ -406,7 +406,7 @@ papers:
     title: "\u041C\u043E\u0434\u0435\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0442\u0435\u0447\u0435\u043D\u0438\u044F \u043D\u0435\u043D\u044C\u044E\u0442\u043E\u043D\u043E\u0432\u0441\u043A\u0438\u0445 \u0436\u0438\u0434\u043A\u043E\u0441\u0442\u0435\u0439 \u0432 \u0442\u043E\u0440\u043E\u0438\u0434\u0430\u043B\u044C\u043D\u043E\u043C \u043A\u0430\u043D\u0430\u043B\u0435 \u0438\u043D\u0435\u0440\u0446\u0438\u043E\u043D\u043D\u043E\u0433\u043E \u0432\u0438\u0441\u043A\u043E\u0437\u0438\u043C\u0435\u0442\u0440\u0430 \u0441 \u0441\u0438\u0441\u0442\u0435\u043C\u043E\u0439 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0437\u0440\u0435\u043D\u0438\u044F"
     year: '2022'
   sY9tLgsAAAAJ:WF5omc3nYNoC:
-    citations: 53
+    citations: 54
     title: How the melanin concentration in the skin affects the fluorescence-spectroscopy signal formation
     year: '2016'
   sY9tLgsAAAAJ:WbkHhVStYXYC:
@@ -418,7 +418,7 @@ papers:
     title: Blood flow oscillations as a signature of microvascular abnormalities
     year: '2018'
   sY9tLgsAAAAJ:WqliGbK-hY8C:
-    citations: 5
+    citations: 4
     title: Incremental residual polarization caused by aging in human skin
     year: '2024'
   sY9tLgsAAAAJ:XD-gHx7UXLsC:
@@ -486,7 +486,7 @@ papers:
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration. Cells 11 (4), 706
     year: '2022'
   sY9tLgsAAAAJ:_kc_bZDykSQC:
-    citations: 24
+    citations: 25
     title: A complex approach to noninvasive estimation of microcirculatory tissue impairments in feet of patients with diabetes mellitus using spectroscopy
     year: '2017'
   sY9tLgsAAAAJ:_xSYboBqXhAC:
@@ -674,7 +674,7 @@ papers:
     title: Evaluation of microvascular disturbances in rheumatic diseases by analysis of skin blood flow oscillations
     year: '2018'
   sY9tLgsAAAAJ:maZDTaKrznsC:
-    citations: 33
+    citations: 34
     title: Imaging of early stage breast cancer with circularly polarized light
     year: '2020'
   sY9tLgsAAAAJ:mvPsJ3kp5DgC:
@@ -774,11 +774,11 @@ papers:
     title: Laser-Induced Singlet Oxygen Stimuates Bioenergetics of Insulin-Producing Cells
     year: '2024'
   sY9tLgsAAAAJ:u-x6o8ySG0sC:
-    citations: 98
+    citations: 99
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 151
+    citations: 153
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
