@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-02'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -86,7 +86,7 @@ papers:
     title: Spectral analysis of the blood flow in the foot microvascular bed during thermal testing in patients with diabetes mellitus
     year: '2018'
   sY9tLgsAAAAJ:5ugPr518TE4C:
-    citations: 31
+    citations: 32
     title: "Time\u2013frequency analysis of laser speckle contrast for transcranial assessment of cerebral blood flow"
     year: '2023'
   sY9tLgsAAAAJ:70eg2SAEIzsC:
@@ -98,7 +98,7 @@ papers:
     title: Application of shallow and deep convolutional neural networks to recognize the average flow rate of physiological fluids in a capillary
     year: '2022'
   sY9tLgsAAAAJ:7PzlFSSx8tAC:
-    citations: 73
+    citations: 74
     title: "Dynamic evaluation of blood flow microcirculation by combined use of the laser Doppler flowmetry and high\u2010speed videocapillaroscopy methods"
     year: '2019'
   sY9tLgsAAAAJ:7T2F9Uy0os0C:
@@ -264,7 +264,7 @@ papers:
   sY9tLgsAAAAJ:ML0RJ9NH7IQC:
     citations: 1
     title: Optical percutaneous needle biopsy in oncology
-    year: '2025'
+    year: '2026'
   sY9tLgsAAAAJ:MXK_kJrjxJIC:
     citations: 86
     title: Multimodal optical measurement for study of lower limb tissue viability in patients with diabetes mellitus
@@ -530,7 +530,7 @@ papers:
     title: Evaluating adaptation options of microcirculatory-tissue systems based on the physiological link of nutritive blood flow and redox ratio
     year: '2015'
   sY9tLgsAAAAJ:dQ2og3OwTAUC:
-    citations: 20
+    citations: 21
     title: Detection of NADH and NADPH levels in vivo identifies shift of glucose metabolism in cancer to energy production
     year: '2024'
   sY9tLgsAAAAJ:dTyEYWd-f8wC:
@@ -730,7 +730,7 @@ papers:
     title: Application of the fluorescence spectroscopy for the analysis of the state of abdominal cavity organs tissues in mini-invasive surgery
     year: '2018'
   sY9tLgsAAAAJ:r0BpntZqJG4C:
-    citations: 55
+    citations: 56
     title: Wavelet analysis of the temporal dynamics of the laser speckle contrast in human skin
     year: '2019'
   sY9tLgsAAAAJ:rO6llkc54NcC:
@@ -774,11 +774,11 @@ papers:
     title: Laser-Induced Singlet Oxygen Stimuates Bioenergetics of Insulin-Producing Cells
     year: '2024'
   sY9tLgsAAAAJ:u-x6o8ySG0sC:
-    citations: 99
+    citations: 100
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 153
+    citations: 154
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
@@ -794,7 +794,7 @@ papers:
     title: 'Singlet Oxygen Detection: A Review of Recent Advances'
     year: '2025'
   sY9tLgsAAAAJ:u_35RYKgDlwC:
-    citations: 156
+    citations: 157
     title: Skin complications of diabetes mellitus revealed by polarized hyperspectral imaging and machine learning
     year: '2021'
   sY9tLgsAAAAJ:uc_IGeMz5qoC:
