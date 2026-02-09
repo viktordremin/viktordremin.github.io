@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-09'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -86,7 +86,7 @@ papers:
     title: Spectral analysis of the blood flow in the foot microvascular bed during thermal testing in patients with diabetes mellitus
     year: '2018'
   sY9tLgsAAAAJ:5ugPr518TE4C:
-    citations: 32
+    citations: 34
     title: "Time\u2013frequency analysis of laser speckle contrast for transcranial assessment of cerebral blood flow"
     year: '2023'
   sY9tLgsAAAAJ:70eg2SAEIzsC:
@@ -106,7 +106,7 @@ papers:
     title: An alternative photothrombotic model of transient ischemic attack
     year: '2025'
   sY9tLgsAAAAJ:8AbLer7MMksC:
-    citations: 35
+    citations: 36
     title: Laser-induced singlet oxygen selectively triggers oscillatory mitochondrial permeability transition and apoptosis in melanoma cell lines
     year: '2022'
   sY9tLgsAAAAJ:8k81kl-MbHgC:
@@ -146,7 +146,7 @@ papers:
     title: "Colon cancer detection by using Poincar\xE9 sphere and 2D polarimetric mapping of ex vivo colon samples"
     year: '2020'
   sY9tLgsAAAAJ:BrmTIyaxlBUC:
-    citations: 40
+    citations: 42
     title: A method to measure non-Newtonian fluids viscosity using inertial viscometer with a computer vision system
     year: '2023'
   sY9tLgsAAAAJ:BwyfMAYsbu0C:
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 129
+    citations: 131
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -262,7 +262,7 @@ papers:
     title: Peculiarities of local blood microcirculation in patients with psoriasis
     year: '2018'
   sY9tLgsAAAAJ:ML0RJ9NH7IQC:
-    citations: 1
+    citations: 2
     title: Optical percutaneous needle biopsy in oncology
     year: '2026'
   sY9tLgsAAAAJ:MXK_kJrjxJIC:
@@ -294,7 +294,7 @@ papers:
     title: Histological imaging of unstained cancer tissue samples by circularly polarized light
     year: '2021'
   sY9tLgsAAAAJ:O3NaXMp0MMsC:
-    citations: 66
+    citations: 67
     title: Biophotonics methods for functional monitoring of complications of diabetes mellitus
     year: '2020'
   sY9tLgsAAAAJ:OU6Ihb5iCvQC:
@@ -522,7 +522,7 @@ papers:
     title: Lesion Detection and Analysis Using Optical Imaging
     year: '2023'
   sY9tLgsAAAAJ:cFHS6HbyZ2cC:
-    citations: 9
+    citations: 10
     title: Polyacrylamide-based phantoms of human skin for hyperspectral fluorescence imaging and spectroscopy
     year: '2021'
   sY9tLgsAAAAJ:d1gkVwhDpl0C:
@@ -634,7 +634,7 @@ papers:
     title: Optical Diagnostics of the Maxillary Sinuses by Digital Diaphanoscopy Technology. Diagnostics 2021, 11, 77
     year: '2021'
   sY9tLgsAAAAJ:isC4tDSrTZIC:
-    citations: 11
+    citations: 12
     title: Optical noninvasive diagnostics of the functional state of microcirculatory bed in patients with disorders of peripheral haemodynamics
     year: '2018'
   sY9tLgsAAAAJ:j3f4tGmQtD8C:
@@ -694,7 +694,7 @@ papers:
     title: Testing a fine-needle optical probe for recording changes in the fluorescence of coenzymes of cellular respiration
     year: '2020'
   sY9tLgsAAAAJ:olpn-zPbct0C:
-    citations: 8
+    citations: 9
     title: Sampling volume assessment for wearable multimodal optical diagnostic device
     year: '2023'
   sY9tLgsAAAAJ:p2g8aNsByqUC:
@@ -730,7 +730,7 @@ papers:
     title: Application of the fluorescence spectroscopy for the analysis of the state of abdominal cavity organs tissues in mini-invasive surgery
     year: '2018'
   sY9tLgsAAAAJ:r0BpntZqJG4C:
-    citations: 56
+    citations: 57
     title: Wavelet analysis of the temporal dynamics of the laser speckle contrast in human skin
     year: '2019'
   sY9tLgsAAAAJ:rO6llkc54NcC:
@@ -778,7 +778,7 @@ papers:
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 154
+    citations: 156
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
@@ -794,7 +794,7 @@ papers:
     title: 'Singlet Oxygen Detection: A Review of Recent Advances'
     year: '2025'
   sY9tLgsAAAAJ:u_35RYKgDlwC:
-    citations: 157
+    citations: 156
     title: Skin complications of diabetes mellitus revealed by polarized hyperspectral imaging and machine learning
     year: '2021'
   sY9tLgsAAAAJ:uc_IGeMz5qoC:
@@ -806,7 +806,7 @@ papers:
     title: The development of attenuation compensation models of fluorescence spectroscopy signals
     year: '2016'
   sY9tLgsAAAAJ:vDijr-p_gm4C:
-    citations: 1
+    citations: 2
     title: Laser-generated singlet oxygen is protective against beta-amyloid neurotoxicity
     year: '2025'
   sY9tLgsAAAAJ:vRqMK49ujn8C:
