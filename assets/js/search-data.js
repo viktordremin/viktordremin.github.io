@@ -423,7 +423,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-optical-percutaneous-needle-biopsy",
+          section: "News",},{id: "projects-multimodal-hyperspectral-system-for-imaging-of-biological-tissues-glycation",
+          title: 'Multimodal hyperspectral system for imaging of biological tissues glycation',
+          description: "H2020 Marie Skłodowska-Curie Actions project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-optical-percutaneous-needle-biopsy",
           title: 'Optical percutaneous needle biopsy',
           description: "RSF project",
           section: "Projects",handler: () => {
