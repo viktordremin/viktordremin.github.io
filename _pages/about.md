@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='https://bmecenter.ru/en'>Research and Development Center of Biomedical Photonics</a>, <a href='https://www.aston.ac.uk/research/eps/aipt'>Aston Institute of Photonic Technologies</a><br>Biophotonics | Biomedical Engineering | Optoelectronics
 
 profile:
-  align: right
+  align: center
   image: 503023-097_cut_2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>...</p>
     <p>...</p>
