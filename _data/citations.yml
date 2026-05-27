@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-27'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 144
+    citations: 146
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -186,7 +186,7 @@ papers:
     title: Hyperspecral skin imaging with artificial neural networks validated by optical biotissue phantoms
     year: '2019'
   sY9tLgsAAAAJ:HE397vMXCloC:
-    citations: 22
+    citations: 23
     title: Efficiency of direct photoinduced generation of singlet oxygen at different wavelengths, power density and exposure time of laser irradiation
     year: '2023'
   sY9tLgsAAAAJ:HoB7MX3m0LUC:
@@ -294,7 +294,7 @@ papers:
     title: Histological imaging of unstained cancer tissue samples by circularly polarized light
     year: '2021'
   sY9tLgsAAAAJ:O3NaXMp0MMsC:
-    citations: 69
+    citations: 70
     title: Biophotonics methods for functional monitoring of complications of diabetes mellitus
     year: '2020'
   sY9tLgsAAAAJ:OU6Ihb5iCvQC:
@@ -382,7 +382,7 @@ papers:
     title: A multiparametric approach to the assessment of cutaneous microcirculation in dermatological patients (on the example of patients with psoriasis)
     year: '2021'
   sY9tLgsAAAAJ:V3AGJWp-ZtQC:
-    citations: 22
+    citations: 24
     title: 'Direct laser-induced singlet oxygen in biological systems: application from in vitro to in vivo'
     year: '2023'
   sY9tLgsAAAAJ:VL0QpB8kHFEC:
@@ -546,7 +546,7 @@ papers:
     title: Fiber-optic system for intraoperative study of abdominal organs during minimally invasive surgical interventions
     year: '2019'
   sY9tLgsAAAAJ:dshw04ExmUIC:
-    citations: 46
+    citations: 48
     title: Polarization-Based Histopathology Classification of Ex Vivo Colon Samples Supported by Machine Learning
     year: '2022'
   sY9tLgsAAAAJ:e5wmG9Sq2KIC:
@@ -598,7 +598,7 @@ papers:
     title: Advanced Approaches to Optical Imaging Data Processing
     year: Unknown Year
   sY9tLgsAAAAJ:g5m5HwL7SMYC:
-    citations: 16
+    citations: 15
     title: Multimodal optical diagnostic in minimally invasive surgery
     year: '2020'
   sY9tLgsAAAAJ:geHnlv5EZngC:
@@ -786,7 +786,7 @@ papers:
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 175
+    citations: 177
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
@@ -802,7 +802,7 @@ papers:
     title: 'Singlet Oxygen Detection: A Review of Recent Advances'
     year: '2025'
   sY9tLgsAAAAJ:u_35RYKgDlwC:
-    citations: 168
+    citations: 169
     title: Skin complications of diabetes mellitus revealed by polarized hyperspectral imaging and machine learning
     year: '2021'
   sY9tLgsAAAAJ:uc_IGeMz5qoC:
