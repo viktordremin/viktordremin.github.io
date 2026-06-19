@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-19'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -102,7 +102,7 @@ papers:
     title: "Dynamic evaluation of blood flow microcirculation by combined use of the laser Doppler flowmetry and high\u2010speed videocapillaroscopy methods"
     year: '2019'
   sY9tLgsAAAAJ:7T2F9Uy0os0C:
-    citations: 1
+    citations: 2
     title: An alternative photothrombotic model of transient ischemic attack
     year: '2025'
   sY9tLgsAAAAJ:8AbLer7MMksC:
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 151
+    citations: 150
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -438,7 +438,7 @@ papers:
     title: Endofluorescence imaging of murine hepatocellular carcinoma cell culture by fluorescence lifetime microscopy with modulated CMOS camera
     year: '2022'
   sY9tLgsAAAAJ:XiVPGOgt02cC:
-    citations: 11
+    citations: 12
     title: Digital diaphanoscopy of maxillary sinus pathologies supported by machine learning
     year: '2023'
   sY9tLgsAAAAJ:Y5dfb0dijaUC:
@@ -514,7 +514,7 @@ papers:
     title: Laser doppler spectrum decomposition applied in diagnostics of microcirculatory disturbances
     year: '2018'
   sY9tLgsAAAAJ:b0M2c_1WBrUC:
-    citations: 41
+    citations: 42
     title: Impairments of cerebral blood flow microcirculation in rats brought on by cardiac cessation and respiratory arrest
     year: '2021'
   sY9tLgsAAAAJ:b1wdh0AR-JQC:
@@ -526,7 +526,7 @@ papers:
     title: Polarization and depolarization metrics as optical markers in support to histopathology of ex vivo colon tissue
     year: '2021'
   sY9tLgsAAAAJ:blknAaTinKkC:
-    citations: 15
+    citations: 16
     title: 'Fluorescence imaging system for biological tissues diagnosis: phantom and animal studies'
     year: '2020'
   sY9tLgsAAAAJ:bnK-pcrLprsC:
@@ -606,7 +606,7 @@ papers:
     title: Advanced Approaches to Optical Imaging Data Processing
     year: Unknown Year
   sY9tLgsAAAAJ:g5m5HwL7SMYC:
-    citations: 16
+    citations: 15
     title: Multimodal optical diagnostic in minimally invasive surgery
     year: '2020'
   sY9tLgsAAAAJ:geHnlv5EZngC:
@@ -690,7 +690,7 @@ papers:
     title: Evaluation of microvascular disturbances in rheumatic diseases by analysis of skin blood flow oscillations
     year: '2018'
   sY9tLgsAAAAJ:maZDTaKrznsC:
-    citations: 35
+    citations: 36
     title: Imaging of early stage breast cancer with circularly polarized light
     year: '2020'
   sY9tLgsAAAAJ:mvPsJ3kp5DgC:
