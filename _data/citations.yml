@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-26'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -102,7 +102,7 @@ papers:
     title: "Dynamic evaluation of blood flow microcirculation by combined use of the laser Doppler flowmetry and high\u2010speed videocapillaroscopy methods"
     year: '2019'
   sY9tLgsAAAAJ:7T2F9Uy0os0C:
-    citations: 2
+    citations: 1
     title: An alternative photothrombotic model of transient ischemic attack
     year: '2025'
   sY9tLgsAAAAJ:8AbLer7MMksC:
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 150
+    citations: 151
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -186,7 +186,7 @@ papers:
     title: Hyperspecral skin imaging with artificial neural networks validated by optical biotissue phantoms
     year: '2019'
   sY9tLgsAAAAJ:HE397vMXCloC:
-    citations: 24
+    citations: 25
     title: Efficiency of direct photoinduced generation of singlet oxygen at different wavelengths, power density and exposure time of laser irradiation
     year: '2023'
   sY9tLgsAAAAJ:HoB7MX3m0LUC:
@@ -438,7 +438,7 @@ papers:
     title: Endofluorescence imaging of murine hepatocellular carcinoma cell culture by fluorescence lifetime microscopy with modulated CMOS camera
     year: '2022'
   sY9tLgsAAAAJ:XiVPGOgt02cC:
-    citations: 12
+    citations: 11
     title: Digital diaphanoscopy of maxillary sinus pathologies supported by machine learning
     year: '2023'
   sY9tLgsAAAAJ:Y5dfb0dijaUC:
@@ -578,7 +578,7 @@ papers:
     title: APPLICATION OF HYPERSPECTRAL IMAGING TO DETERMINE BLOOD MICROCIRCULATORY DISORDERS IN AN ANIMAL MODEL OF INTESTINAL ISCHEMIA
     year: Unknown Year
   sY9tLgsAAAAJ:epqYDVWIO7EC:
-    citations: 7
+    citations: 8
     title: "Low-level light therapy alone versus combination therapy with intense pulsed light in the treatment of dry eye disease with meibomian gland dysfunction: a randomised paired-eye \u2026"
     year: '2025'
   sY9tLgsAAAAJ:eq2jaN3J8jMC:
@@ -606,7 +606,7 @@ papers:
     title: Advanced Approaches to Optical Imaging Data Processing
     year: Unknown Year
   sY9tLgsAAAAJ:g5m5HwL7SMYC:
-    citations: 15
+    citations: 16
     title: Multimodal optical diagnostic in minimally invasive surgery
     year: '2020'
   sY9tLgsAAAAJ:geHnlv5EZngC:
