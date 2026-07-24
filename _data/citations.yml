@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-24'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -106,7 +106,7 @@ papers:
     title: An alternative photothrombotic model of transient ischemic attack
     year: '2025'
   sY9tLgsAAAAJ:8AbLer7MMksC:
-    citations: 38
+    citations: 42
     title: Laser-induced singlet oxygen selectively triggers oscillatory mitochondrial permeability transition and apoptosis in melanoma cell lines
     year: '2022'
   sY9tLgsAAAAJ:8k81kl-MbHgC:
@@ -126,7 +126,7 @@ papers:
     title: A novel excitation-emission wavelength model to facilitate the diagnosis of urinary bladder diseases
     year: '2015'
   sY9tLgsAAAAJ:AXPGKjj_ei8C:
-    citations: 2
+    citations: 3
     title: Comparison of nonlinear properties of monomer and dimer of bacterial phytochrome from Deinococcus radiodurans
     year: '2023'
   sY9tLgsAAAAJ:AvfA0Oy_GE0C:
@@ -134,7 +134,7 @@ papers:
     title: "\u041F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u044B \u043C\u0438\u043A\u0440\u043E\u0446\u0438\u0440\u043A\u0443\u043B\u044F\u0446\u0438\u0438 \u0432 \u043A\u043E\u0436\u0435 \u043A\u0430\u043A \u0434\u0438\u0430\u0433\u043D\u043E\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043C\u0430\u0440\u043A\u0435\u0440\u044B \u043D\u0430\u0440\u0443\u0448\u0435\u043D\u0438\u044F \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0438 \u0446\u0435\u0440\u0435\u0431\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u0440\u043E\u0432\u043E\u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u044F \u043F\u0440\u0438 \u0433\u0435\u043C\u043E\u0440\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u0448\u043E\u043A\u0435 (\u044D\u043A\u0441\u043F\u0435\u0440\u0438\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u043E\u0435 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435)"
     year: '2025'
   sY9tLgsAAAAJ:B3FOqHPlNUQC:
-    citations: 32
+    citations: 34
     title: Simulation of thermal field distribution in biological tissue and cell culture media irradiated with infrared wavelengths
     year: '2022'
   sY9tLgsAAAAJ:BUYA1_V_uYcC:
@@ -146,11 +146,11 @@ papers:
     title: "Colon cancer detection by using Poincar\xE9 sphere and 2D polarimetric mapping of ex vivo colon samples"
     year: '2020'
   sY9tLgsAAAAJ:BrmTIyaxlBUC:
-    citations: 42
+    citations: 43
     title: A method to measure non-Newtonian fluids viscosity using inertial viscometer with a computer vision system
     year: '2023'
   sY9tLgsAAAAJ:BwyfMAYsbu0C:
-    citations: 0
+    citations: 1
     title: Skin Microcirculatory Parameters as Diagnostic Markers of Central and Cerebral Circulatory Disorders in Hemorrhagic Shock (An Experimental Study)
     year: '2025'
   sY9tLgsAAAAJ:CHSYGLWDkRkC:
@@ -158,7 +158,7 @@ papers:
     title: Brightness controller optimization for the digital diaphanoscopy system
     year: '2021'
   sY9tLgsAAAAJ:D_sINldO8mEC:
-    citations: 24
+    citations: 26
     title: 'Ultra-short laser pulses propagation through mouse head tissues: experimental and computational study'
     year: '2022'
   sY9tLgsAAAAJ:EUQCXRtRnyEC:
@@ -170,7 +170,7 @@ papers:
     title: Evaluation of Postocclusive Reactive Hyperemia in Rat Paw Skin Using Laser Speckle Contrast Imaging
     year: '2025'
   sY9tLgsAAAAJ:EkHepimYqZsC:
-    citations: 0
+    citations: 2
     title: Modern optical non-invasive technologies in diagnostics of urological diseases. Literature review. Part II
     year: '2024'
   sY9tLgsAAAAJ:Fu2w8maKXqMC:
@@ -186,11 +186,11 @@ papers:
     title: Hyperspecral skin imaging with artificial neural networks validated by optical biotissue phantoms
     year: '2019'
   sY9tLgsAAAAJ:HE397vMXCloC:
-    citations: 25
+    citations: 26
     title: Efficiency of direct photoinduced generation of singlet oxygen at different wavelengths, power density and exposure time of laser irradiation
     year: '2023'
   sY9tLgsAAAAJ:HoB7MX3m0LUC:
-    citations: 15
+    citations: 16
     title: Monitoring oxidative metabolism while modeling pancreatic ischemia in mice using a multimodal spectroscopy technique
     year: '2020'
   sY9tLgsAAAAJ:ILKRHgRFtOwC:
@@ -218,7 +218,7 @@ papers:
     title: Optical fine needle biopsy in hepatocellular carcinoma mouse model
     year: '2020'
   sY9tLgsAAAAJ:J_g5lzvAfSwC:
-    citations: 91
+    citations: 93
     title: 'Optical percutaneous needle biopsy of the liver: a pilot animal and clinical study'
     year: '2020'
   sY9tLgsAAAAJ:JoZmwDi-zQgC:
@@ -262,15 +262,15 @@ papers:
     title: Peculiarities of local blood microcirculation in patients with psoriasis
     year: '2018'
   sY9tLgsAAAAJ:ML0RJ9NH7IQC:
-    citations: 2
+    citations: 3
     title: Optical percutaneous needle biopsy in oncology
-    year: '2025'
+    year: '2026'
   sY9tLgsAAAAJ:MLfJN-KU85MC:
     citations: 0
-    title: 'Tissue Metabolism: Fundamentals and Advanced Instrumental Assessment'
+    title: 'Tissue metabolism: fundamentals and advanced instrumental assessment'
     year: '2026'
   sY9tLgsAAAAJ:MXK_kJrjxJIC:
-    citations: 87
+    citations: 88
     title: Multimodal optical measurement for study of lower limb tissue viability in patients with diabetes mellitus
     year: '2017'
   sY9tLgsAAAAJ:Mojj43d5GZwC:
@@ -334,7 +334,7 @@ papers:
     title: Protocol for optical percutaneous needle biopsy of the liver
     year: '2020'
   sY9tLgsAAAAJ:SP6oXDckpogC:
-    citations: 52
+    citations: 53
     title: Fluorescence lifetime needle optical biopsy discriminates hepatocellular carcinoma
     year: '2022'
   sY9tLgsAAAAJ:SdhP9T11ey4C:
@@ -346,7 +346,7 @@ papers:
     title: The influence of local pressure on evaluation parameters of skin blood perfusion and fluorescence
     year: '2017'
   sY9tLgsAAAAJ:SeFeTyx0c_EC:
-    citations: 44
+    citations: 45
     title: 'Wearable laser Doppler flowmetry sensor: a feasibility study with smoker and non-smoker volunteers'
     year: '2020'
   sY9tLgsAAAAJ:TFP_iSt0sucC:
@@ -358,7 +358,7 @@ papers:
     title: 'Correction to: An Alternative Photothrombotic Model of Transient Ischemic Attack (Translational Stroke Research,(2024), 10.1007/s12975-024-01285-2)'
     year: '2024'
   sY9tLgsAAAAJ:TQgYirikUcIC:
-    citations: 182
+    citations: 183
     title: Hyperspectral imaging of human skin aided by artificial neural networks
     year: '2019'
   sY9tLgsAAAAJ:Tiz5es2fbqcC:
@@ -386,7 +386,7 @@ papers:
     title: A multiparametric approach to the assessment of cutaneous microcirculation in dermatological patients (on the example of patients with psoriasis)
     year: '2021'
   sY9tLgsAAAAJ:V3AGJWp-ZtQC:
-    citations: 24
+    citations: 26
     title: 'Direct laser-induced singlet oxygen in biological systems: application from in vitro to in vivo'
     year: '2023'
   sY9tLgsAAAAJ:VL0QpB8kHFEC:
@@ -494,7 +494,7 @@ papers:
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration. Cells 11 (4), 706
     year: '2022'
   sY9tLgsAAAAJ:_kc_bZDykSQC:
-    citations: 26
+    citations: 27
     title: A complex approach to noninvasive estimation of microcirculatory tissue impairments in feet of patients with diabetes mellitus using spectroscopy
     year: '2017'
   sY9tLgsAAAAJ:_xSYboBqXhAC:
@@ -519,7 +519,7 @@ papers:
     year: '2021'
   sY9tLgsAAAAJ:b1wdh0AR-JQC:
     citations: 0
-    title: Light-tissue interaction and pathways for noninvasive neurostimulation
+    title: Light-tissue interaction and pathways for non-invasive neurostimulation
     year: '2026'
   sY9tLgsAAAAJ:bFI3QPDXJZMC:
     citations: 55
@@ -534,7 +534,7 @@ papers:
     title: Lesion Detection and Analysis Using Optical Imaging
     year: '2023'
   sY9tLgsAAAAJ:cFHS6HbyZ2cC:
-    citations: 10
+    citations: 11
     title: Polyacrylamide-based phantoms of human skin for hyperspectral fluorescence imaging and spectroscopy
     year: '2021'
   sY9tLgsAAAAJ:d1gkVwhDpl0C:
@@ -542,7 +542,7 @@ papers:
     title: Evaluating adaptation options of microcirculatory-tissue systems based on the physiological link of nutritive blood flow and redox ratio
     year: '2015'
   sY9tLgsAAAAJ:dQ2og3OwTAUC:
-    citations: 29
+    citations: 30
     title: Detection of NADH and NADPH levels in vivo identifies shift of glucose metabolism in cancer to energy production
     year: '2024'
   sY9tLgsAAAAJ:dTyEYWd-f8wC:
@@ -554,7 +554,7 @@ papers:
     title: Fiber-optic system for intraoperative study of abdominal organs during minimally invasive surgical interventions
     year: '2019'
   sY9tLgsAAAAJ:dshw04ExmUIC:
-    citations: 49
+    citations: 51
     title: Polarization-Based Histopathology Classification of Ex Vivo Colon Samples Supported by Machine Learning
     year: '2022'
   sY9tLgsAAAAJ:e5wmG9Sq2KIC:
@@ -578,7 +578,7 @@ papers:
     title: APPLICATION OF HYPERSPECTRAL IMAGING TO DETERMINE BLOOD MICROCIRCULATORY DISORDERS IN AN ANIMAL MODEL OF INTESTINAL ISCHEMIA
     year: Unknown Year
   sY9tLgsAAAAJ:epqYDVWIO7EC:
-    citations: 8
+    citations: 10
     title: "Low-level light therapy alone versus combination therapy with intense pulsed light in the treatment of dry eye disease with meibomian gland dysfunction: a randomised paired-eye \u2026"
     year: '2025'
   sY9tLgsAAAAJ:eq2jaN3J8jMC:
@@ -594,7 +594,7 @@ papers:
     title: Assessment of mitochondrial membrane potential and NADH redox state in acute brain slices
     year: '2021'
   sY9tLgsAAAAJ:fEOibwPWpKIC:
-    citations: 3
+    citations: 4
     title: Dual-mode OCT/fluorescence system for monitoring the morphology and metabolism of laser-printed 3D full-thickness skin equivalents
     year: '2024'
   sY9tLgsAAAAJ:fQNAKQ3IYiAC:
@@ -634,7 +634,7 @@ papers:
     title: Time-frequency analysis of laser speckle contrast reveals new feature space for transcranial assessment of cerebral blood microcirculation
     year: '2023'
   sY9tLgsAAAAJ:hqOjcs7Dif8C:
-    citations: 40
+    citations: 41
     title: Evaluation of microcirculatory disturbances in patients with rheumatic diseases by the method of diffuse reflectance spectroscopy
     year: '2017'
   sY9tLgsAAAAJ:iH-uZ7U-co4C:
@@ -671,7 +671,7 @@ papers:
     year: '2020'
   sY9tLgsAAAAJ:kuK5TVdYjLIC:
     citations: 0
-    title: "K\u043Bacc\u0438\u0444\u0438\u043Aa\u0446\u0438\u044F coc\u0442o\u044F\u043D\u0438\u0439 \u0432ep\u0445\u043De\u0447e\u043B\u044Ec\u0442\u043D\u044B\u0445 \u043Fa\u0437y\u0445 \u043Fo \u0434a\u043D\u043D\u044B\u043C \u0446\u0438\u0444po\u0432o\u0439 \u0434\u0438a\u0444a\u043Doc\u043Ao\u043F\u0438\u0438 c \u043Fp\u0438\u043Ce\u043De\u043D\u0438e\u043C \u043Ca\u0448\u0438\u043D\u043Do\u0433o o\u0431y\u0447e\u043D\u0438\u044F"
+    title: Classification of maxillary sinus states according to digital diaphanoscopy with the use of machine learning
     year: '2026'
   sY9tLgsAAAAJ:kzcrU_BdoSEC:
     citations: 0
@@ -681,6 +681,10 @@ papers:
     citations: 1
     title: Low-cost fabrication of PPIX liquid phantoms for use in fluorescence measurements
     year: '2022'
+  sY9tLgsAAAAJ:lmc2jWPfTJgC:
+    citations: 0
+    title: Optical Modulation of Insulin-Producing Cell Bioenergetics
+    year: '2026'
   sY9tLgsAAAAJ:mB3voiENLucC:
     citations: 3
     title: Laser speckle contrast imaging of abdominal organs in mouse model
@@ -702,7 +706,7 @@ papers:
     title: Multimodal Laparoscopic System for Biological Tissue Perfusion and Metabolism Assessment
     year: '2021'
   sY9tLgsAAAAJ:nrtMV_XWKgEC:
-    citations: 0
+    citations: 1
     title: Modern optical non-invasive technologies in diagnostics of urological diseases. Literature review. Part I
     year: '2024'
   sY9tLgsAAAAJ:ns9cj8rnVeAC:
@@ -774,7 +778,7 @@ papers:
     title: Comparison of wearable and bedside laser Doppler flowmetry and fluorescence spectroscopy monitors
     year: '2022'
   sY9tLgsAAAAJ:tS2w5q8j5-wC:
-    citations: 2
+    citations: 4
     title: Evaluation of penetration depth of near-infrared irradiation generated by tunable ultra-short pulsed laser in ex vivo samples of mouse head
     year: '2022'
   sY9tLgsAAAAJ:tYavs44e6CUC:
@@ -798,11 +802,11 @@ papers:
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 180
+    citations: 183
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
-    citations: 11
+    citations: 13
     title: "In Vivo Time\u2010Resolved Fluorescence Detection of Liver Cancer Supported by Machine Learning"
     year: '2024'
   sY9tLgsAAAAJ:uLbwQdceFCQC:
@@ -814,19 +818,19 @@ papers:
     title: 'Singlet Oxygen Detection: A Review of Recent Advances'
     year: '2025'
   sY9tLgsAAAAJ:u_35RYKgDlwC:
-    citations: 174
+    citations: 181
     title: Skin complications of diabetes mellitus revealed by polarized hyperspectral imaging and machine learning
     year: '2021'
   sY9tLgsAAAAJ:uc_IGeMz5qoC:
-    citations: 4
+    citations: 5
     title: A wearable device dataset for mental health assessment using laser doppler flowmetry and fluorescence spectroscopy sensors
-    year: '2025'
+    year: '2026'
   sY9tLgsAAAAJ:ufrVoPGSRksC:
     citations: 35
     title: The development of attenuation compensation models of fluorescence spectroscopy signals
     year: '2016'
   sY9tLgsAAAAJ:vDijr-p_gm4C:
-    citations: 3
+    citations: 5
     title: Laser-generated singlet oxygen is protective against beta-amyloid neurotoxicity
     year: '2025'
   sY9tLgsAAAAJ:vRqMK49ujn8C:
@@ -862,7 +866,7 @@ papers:
     title: Laser-printed 3D full-thickness skin equivalent morphology and metabolism monitoring by dual-mode OCT/Fluorescence system
     year: '2023'
   sY9tLgsAAAAJ:zLWjf1WUPmwC:
-    citations: 0
+    citations: 1
     title: Nonlinear optical properties of photosensory core modules of monomeric and dimeric bacterial phytochromes
     year: '2025'
   sY9tLgsAAAAJ:zYLM7Y9cAGgC:
