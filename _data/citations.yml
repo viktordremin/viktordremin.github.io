@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-10'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -142,7 +142,7 @@ papers:
     title: 'Illuminating the Brain: Pipedream or Impending Reality for Minimally Invasive Neurostimulation?'
     year: '2025'
   sY9tLgsAAAAJ:BqipwSGYUEgC:
-    citations: 75
+    citations: 76
     title: "Colon cancer detection by using Poincar\xE9 sphere and 2D polarimetric mapping of ex vivo colon samples"
     year: '2020'
   sY9tLgsAAAAJ:BrmTIyaxlBUC:
@@ -178,7 +178,7 @@ papers:
     title: Effects of laser-induced singlet oxygen on the bioenergetics of insulin-producing cells
     year: '2024'
   sY9tLgsAAAAJ:GnPB-g6toBAC:
-    citations: 151
+    citations: 153
     title: Interaction of oxidative stress and misfolded proteins in the mechanism of neurodegeneration
     year: '2020'
   sY9tLgsAAAAJ:HDshCWvjkbEC:
@@ -218,7 +218,7 @@ papers:
     title: Optical fine needle biopsy in hepatocellular carcinoma mouse model
     year: '2020'
   sY9tLgsAAAAJ:J_g5lzvAfSwC:
-    citations: 96
+    citations: 97
     title: 'Optical percutaneous needle biopsy of the liver: a pilot animal and clinical study'
     year: '2020'
   sY9tLgsAAAAJ:JoZmwDi-zQgC:
@@ -350,7 +350,7 @@ papers:
     title: The influence of local pressure on evaluation parameters of skin blood perfusion and fluorescence
     year: '2017'
   sY9tLgsAAAAJ:SeFeTyx0c_EC:
-    citations: 46
+    citations: 47
     title: 'Wearable laser doppler flowmetry sensor: A feasibility study with smoker and non-smoker volunteers'
     year: '2020'
   sY9tLgsAAAAJ:TFP_iSt0sucC:
@@ -742,7 +742,7 @@ papers:
     title: Machine learning aided photonic diagnostic system for minimally invasive optically guided surgery in the hepatoduodenal area
     year: '2020'
   sY9tLgsAAAAJ:pyW8ca7W8N0C:
-    citations: 21
+    citations: 22
     title: Spatial heterogeneity of cutaneous blood flow respiratory-related oscillations quantified via laser speckle contrast imaging
     year: '2021'
   sY9tLgsAAAAJ:q3oQSFYPqjQC:
@@ -814,7 +814,7 @@ papers:
     title: Individual variability analysis of fluorescence parameters measured in skin with different levels of nutritive blood flow
     year: '2015'
   sY9tLgsAAAAJ:u9iWguZQMMsC:
-    citations: 183
+    citations: 184
     title: Interaction of mitochondrial calcium and ROS in neurodegeneration
     year: '2022'
   sY9tLgsAAAAJ:uJ-U7cs_P_0C:
