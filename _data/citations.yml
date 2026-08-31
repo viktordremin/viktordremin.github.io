@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   sY9tLgsAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Application of deep convolutional and long short-term memory neural networks to red blood cells motion detection and velocity approximation
     year: '2022'
   sY9tLgsAAAAJ:0EnyYjriUFMC:
-    citations: 35
+    citations: 36
     title: Detection of angiospastic disorders in the microcirculatory bed using laser diagnostics technologies
     year: '2018'
   sY9tLgsAAAAJ:1qzjygNMrQYC:
@@ -550,7 +550,7 @@ papers:
     title: Evaluating adaptation options of microcirculatory-tissue systems based on the physiological link of nutritive blood flow and redox ratio
     year: '2015'
   sY9tLgsAAAAJ:dQ2og3OwTAUC:
-    citations: 32
+    citations: 33
     title: Detection of NADH and NADPH levels in vivo identifies shift of glucose metabolism in cancer to energy production
     year: '2024'
   sY9tLgsAAAAJ:dTyEYWd-f8wC:
@@ -586,7 +586,7 @@ papers:
     title: APPLICATION OF HYPERSPECTRAL IMAGING TO DETERMINE BLOOD MICROCIRCULATORY DISORDERS IN AN ANIMAL MODEL OF INTESTINAL ISCHEMIA
     year: Unknown Year
   sY9tLgsAAAAJ:epqYDVWIO7EC:
-    citations: 10
+    citations: 11
     title: "Low-level light therapy alone versus combination therapy with intense pulsed light in the treatment of dry eye disease with meibomian gland dysfunction: a randomised paired-eye \u2026"
     year: '2025'
   sY9tLgsAAAAJ:eq2jaN3J8jMC:
@@ -598,7 +598,7 @@ papers:
     title: Cerebral Blood Flow Dynamics in Rats with Blood Loss
     year: '2024'
   sY9tLgsAAAAJ:f2IySw72cVMC:
-    citations: 21
+    citations: 22
     title: Assessment of mitochondrial membrane potential and NADH redox state in acute brain slices
     year: '2021'
   sY9tLgsAAAAJ:fEOibwPWpKIC:
@@ -684,6 +684,10 @@ papers:
   sY9tLgsAAAAJ:kuK5TVdYjLIC:
     citations: 0
     title: Classification of maxillary sinus states according to digital diaphanoscopy with the use of machine learning
+    year: '2026'
+  sY9tLgsAAAAJ:kz9GbA2Ns4gC:
+    citations: 0
+    title: Automated recognition of maxillary sinus pathology forms in digital diaphanoscopy using convolutional neural networks
     year: '2026'
   sY9tLgsAAAAJ:kzcrU_BdoSEC:
     citations: 0
@@ -830,7 +834,7 @@ papers:
     title: 'Singlet Oxygen Detection: A Review of Recent Advances'
     year: '2025'
   sY9tLgsAAAAJ:u_35RYKgDlwC:
-    citations: 184
+    citations: 185
     title: Skin complications of diabetes mellitus revealed by polarized hyperspectral imaging and machine learning
     year: '2021'
   sY9tLgsAAAAJ:uc_IGeMz5qoC:
